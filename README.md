@@ -87,7 +87,7 @@ cd ModelPulse
 node server.cjs
 ```
 
-在浏览器打开 **http://127.0.0.1:4173**。官网使用原生 HTML、CSS 和 JavaScript，无需安装 npm 依赖。
+在浏览器打开 [本地预览](http://127.0.0.1:4173)。官网使用原生 HTML、CSS 和 JavaScript，无需安装 npm 依赖。
 
 ```text
 ModelPulse/
