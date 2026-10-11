@@ -1,6 +1,7 @@
 <p align="center"><img src="./banner.svg" alt="ModelPulse — Your AI. In sight." width="100%"></p>
 
 <h1 align="center">ModelPulse</h1>
+<p align="center"><strong>中文</strong> | <a href="./README.en.md">English</a></p>
 <p align="center"><strong>看见模型的每一次脉动。</strong><br>为 Windows 设计的组件化大模型实时监控中心。</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-10%20%2F%2011-627650?style=flat-square" alt="Windows">
@@ -97,7 +98,8 @@ ModelPulse/
 ├── server.cjs      本地预览服务
 ├── banner.svg      README 品牌横幅
 ├── preview.png     产品概念预览
-└── README.md       项目介绍与路线
+├── README.md       中文介绍与路线
+└── README.en.md    英文介绍与路线
 ```
 
 ## 开发路线
